@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.0.0.0</version>
-    <url>http://keysoftoffice.github.io/AutoUpdaterTest.zip</url>
+    <url>http://keysoftoffice.github.io/update.zip</url>
     <changelog>https://keysoftoffice.github.io/index.html</changelog>
     <mandatory>false</mandatory>
 </item>
