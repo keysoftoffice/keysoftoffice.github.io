@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.1.1.8</version>
-    <url>https://keysoftoffice.github.io/update.xml</url>
-    <changelog>https://keysoftoffice.github.io/index.html</changelog>
+    <url>http://keysoftoffice.github.io/update.zip</url>
+    <changelog>http://keysoftoffice.github.io/index.html</changelog>
     <mandatory>false</mandatory>
 </item>
